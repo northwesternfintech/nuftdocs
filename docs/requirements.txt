@@ -4,3 +4,4 @@
 #
 #    pip-compile --resolver=backtracking
 #
+myst_parser
