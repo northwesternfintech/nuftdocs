@@ -1,4 +1,5 @@
 site_name: NUFTDocs
+repo_url: https://github.com/northwesternfintech/
 theme:
   name: readthedocs
   highlightjs: true
@@ -13,3 +14,17 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
+nav:
+  - Home: index.md
+  - Project:
+      - Overview: Project/Overview.md
+      - Desk Alpha:
+          - Overview: Project/deskalpha/Overview.md
+      - Desk Developers:
+          - Overview: Project/DD.md
+      - Core Developers:
+          - Overview: Project/core_developers/overview.md
+          - Backtesting:
+              - Overview: Project/core_developers/backtesting/overview.md
+          - Execution:
+              - Overview: Project/core_developers/execution/overview.md
