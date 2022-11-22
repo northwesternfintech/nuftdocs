@@ -8,8 +8,8 @@ Welcome to NUFintech's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   myfile
+   :caption: Table of Contents:
+   myfile.md
 
 
 
