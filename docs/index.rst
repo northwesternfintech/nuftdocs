@@ -5,7 +5,6 @@
 
 Welcome to NUFintech's documentation!
 =====================================
-IDK what to put here.
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents:
