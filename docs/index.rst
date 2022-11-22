@@ -5,17 +5,10 @@
 
 Welcome to NUFintech's documentation!
 =====================================
-
+IDK what to put here.
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents:
-   myfile.md
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex` 
-* :ref:`search`
